@@ -23,6 +23,8 @@ Chaque entrée correspond à une publication ou à une référence absolue. Par 
 
 Certaines entrées ne contiennent aucune adresse Web (URL) : ces publications sont obsolètes ou archivées, elles ne sont plus disponibles en ligne mais toujours listées pour pouvoir y faire référence.
 
+De manière complémentaire, une [API publique](https://messervices.cyber.gouv.fr/api/guides) liste l'ensemble des guides publiés sur [le site MesServicesCyber](https://messervices.cyber.gouv.fr/).
+
 Pour l'utilisation de BibTeX avec LaTeX, il est possible de se référer aux pages de tutoriel francophone [Guide bibliographique BibTeX](https://bibtex.eu/fr/).
 
 ## Licence
